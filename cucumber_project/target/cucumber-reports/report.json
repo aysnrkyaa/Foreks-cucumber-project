@@ -1,0 +1,1005 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 172225,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.beforeScenario()"
+            }
+          }
+        ],
+        "line": 2,
+        "name": "Go to foreks website and test login page",
+        "description": "",
+        "id": "foreks-login-test;go-to-foreks-website-and-test-login-page",
+        "after": [
+          {
+            "result": {
+              "duration": 265349,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.afterScenario(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 34185684159,
+              "status": "passed"
+            },
+            "line": 3,
+            "name": "Open Foreks login page",
+            "match": {
+              "location": "LoginSteps.open_Foreks_login_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 236526786,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "Write username",
+            "match": {
+              "location": "LoginSteps.write_username()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 91458921,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "Write password",
+            "match": {
+              "location": "LoginSteps.write_password()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2103476740,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "Click login button",
+            "match": {
+              "location": "LoginSteps.click_login_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 3220018187,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "Accept popup",
+            "match": {
+              "location": "LoginSteps.accept_popup()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 180788681,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "Open bosekran",
+            "match": {
+              "location": "LoginSteps.openBosekran()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 3123077155,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "Check username on that page",
+            "match": {
+              "location": "LoginSteps.check_username_on_that_page()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 138949980,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "Quit page",
+            "match": {
+              "location": "LoginSteps.quit_page()"
+            },
+            "keyword": "And "
+          }
+        ]
+      }
+    ],
+    "name": "Foreks Login test",
+    "description": "",
+    "id": "foreks-login-test",
+    "keyword": "Feature",
+    "uri": "ForeksLogin.feature"
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 91203,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.beforeScenario()"
+            }
+          }
+        ],
+        "line": 2,
+        "name": "Go to foreks website and test Özet İstatistik page",
+        "description": "",
+        "id": "foreks-analizler---özet-i̇statistik-test;go-to-foreks-website-and-test-özet-i̇statistik-page",
+        "after": [
+          {
+            "result": {
+              "duration": 88919,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.afterScenario(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 31332922962,
+              "status": "passed"
+            },
+            "line": 3,
+            "name": "Open Foreks login page",
+            "match": {
+              "location": "LoginSteps.open_Foreks_login_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 279877153,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "Write username",
+            "match": {
+              "location": "LoginSteps.write_username()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 93661266,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "Write password",
+            "match": {
+              "location": "LoginSteps.write_password()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2127694101,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "Click login button",
+            "match": {
+              "location": "LoginSteps.click_login_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2673693004,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "Accept popup",
+            "match": {
+              "location": "LoginSteps.accept_popup()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 164873253,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "Open bosekran",
+            "match": {
+              "location": "LoginSteps.openBosekran()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 174629219,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "Click modul list",
+            "match": {
+              "location": "LoginSteps.click_modul_list()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 239780029,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "Click Analizler",
+            "match": {
+              "location": "LoginSteps.click_Analizler()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 276172094,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "Click Özet İstatistik",
+            "match": {
+              "location": "LoginSteps.click_Özet_İstatistik()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 288328552,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "Search hisse",
+            "match": {
+              "location": "LoginSteps.search_hisse()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 35103872,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "Check hisse on that page",
+            "match": {
+              "location": "LoginSteps.check_hisse_on_that_page()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 150918266,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "Quit page",
+            "match": {
+              "location": "LoginSteps.quit_page()"
+            },
+            "keyword": "And "
+          }
+        ]
+      }
+    ],
+    "name": "Foreks Analizler - Özet İstatistik test",
+    "description": "",
+    "id": "foreks-analizler---özet-i̇statistik-test",
+    "keyword": "Feature",
+    "uri": "ForeksOzetistatistik.feature"
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 147334,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.beforeScenario()"
+            }
+          }
+        ],
+        "line": 2,
+        "name": "Go to foreks website and test Tüm Pariteler page",
+        "description": "",
+        "id": "foreks-para-piyasaları---tüm-pariteler-test;go-to-foreks-website-and-test-tüm-pariteler-page",
+        "after": [
+          {
+            "result": {
+              "duration": 143267,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.afterScenario(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 3783216037,
+              "status": "passed"
+            },
+            "line": 3,
+            "name": "Open Foreks login page",
+            "match": {
+              "location": "LoginSteps.open_Foreks_login_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 39845571106,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "Write username",
+            "match": {
+              "location": "LoginSteps.write_username()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 129980891,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "Write password",
+            "match": {
+              "location": "LoginSteps.write_password()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2167385444,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "Click login button",
+            "match": {
+              "location": "LoginSteps.click_login_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2373030007,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "Accept popup",
+            "match": {
+              "location": "LoginSteps.accept_popup()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 165927963,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "Open bosekran",
+            "match": {
+              "location": "LoginSteps.openBosekran()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 164997708,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "Click modul list",
+            "match": {
+              "location": "LoginSteps.click_modul_list()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 232948705,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "Click para piyasalari",
+            "match": {
+              "location": "LoginSteps.click_para_piyasalari()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 548305951,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "Click tum pariteler",
+            "match": {
+              "location": "LoginSteps.click_tum_pariteler()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 5891324914,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "Add column",
+            "match": {
+              "location": "LoginSteps.add_column()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 30282532,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "Check column",
+            "match": {
+              "location": "LoginSteps.check_column()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 297484141,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "Delete column",
+            "match": {
+              "location": "LoginSteps.delete_column()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 82196275,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "Close widget",
+            "match": {
+              "location": "LoginSteps.close_widget()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 139543343,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "Click modul list",
+            "match": {
+              "location": "LoginSteps.click_modul_list()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 222774338,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "Click para piyasalari",
+            "match": {
+              "location": "LoginSteps.click_para_piyasalari()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 536548524,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "Click tum pariteler",
+            "match": {
+              "location": "LoginSteps.click_tum_pariteler()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 33210545,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "Check data",
+            "match": {
+              "location": "LoginSteps.check_data()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 238679940,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "Search sembol",
+            "match": {
+              "location": "LoginSteps.search_sembol()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 114595652,
+              "status": "passed"
+            },
+            "line": 21,
+            "name": "Click sembol detay",
+            "match": {
+              "location": "LoginSteps.click_sembol_detay()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 157052534,
+              "status": "passed"
+            },
+            "line": 22,
+            "name": "Quit page",
+            "match": {
+              "location": "LoginSteps.quit_page()"
+            },
+            "keyword": "And "
+          }
+        ]
+      }
+    ],
+    "name": "Foreks Para Piyasaları - Tüm Pariteler test",
+    "description": "",
+    "id": "foreks-para-piyasaları---tüm-pariteler-test",
+    "keyword": "Feature",
+    "uri": "ForeksTumpariteler.feature"
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 191600,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.beforeScenario()"
+            }
+          }
+        ],
+        "line": 2,
+        "name": "Go to marbas website and test login page",
+        "description": "",
+        "id": "marbas-analizler---finansal-oranlar-test;go-to-marbas-website-and-test-login-page",
+        "after": [
+          {
+            "result": {
+              "duration": 476715274,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.afterScenario(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 30926990108,
+              "status": "passed"
+            },
+            "line": 3,
+            "name": "Open Marbas login page",
+            "match": {
+              "location": "LoginSteps.open_Marbas_login_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 200193735,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "Write marbas username",
+            "match": {
+              "location": "LoginSteps.write_marbas_username()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 103513605,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "Write password",
+            "match": {
+              "location": "LoginSteps.write_password()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2540264798,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "Click login button",
+            "match": {
+              "location": "LoginSteps.click_login_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 4149156282,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "Accept popup marbas",
+            "match": {
+              "location": "LoginSteps.acceptPopupMarbas()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1088895667,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "Open bosekran",
+            "match": {
+              "location": "LoginSteps.openBosekran()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 914211394,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "Click modul list",
+            "match": {
+              "location": "LoginSteps.click_modul_list()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 256525905,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "Click Analizler",
+            "match": {
+              "location": "LoginSteps.click_Analizler()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 115127183644,
+              "error_message": "org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//div[text()\u003d\u0027Finansal Oranlar\u0027]\"}\n  (Session info: chrome\u003d114.0.5735.198)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: \u00273.141.59\u0027, revision: \u0027e82be7d358\u0027, time: \u00272018-11-14T08:17:03\u0027\nSystem info: host: \u0027MacBook-Pro-4.local\u0027, ip: \u0027fe80:0:0:0:14c6:cc8b:a438:6ef9%en0\u0027, os.name: \u0027Mac OS X\u0027, os.arch: \u0027x86_64\u0027, os.version: \u002712.6\u0027, java.version: \u00271.8.0_302\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.198, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: /var/folders/xj/xpzb9w853ps...}, goog:chromeOptions: {debuggerAddress: localhost:50108}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}\nSession ID: 24352f9787949c26fc3fd31907ba4191\n*** Element info: {Using\u003dxpath, value\u003d//div[text()\u003d\u0027Finansal Oranlar\u0027]}\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)\n\tat java.lang.reflect.Constructor.newInstance(Constructor.java:423)\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)\n\tat org.openqa.selenium.By$ByXPath.findElement(By.java:353)\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)\n\tat pageobjectmodel.homepage_function.clickFinansaloranlar(homepage_function.java:102)\n\tat stepDefinition.LoginSteps.clickFinansalOranlar(LoginSteps.java:156)\n\tat ✽.And Click Finansal Oranlar(MarbasFinansalOranlar.feature:11)\n",
+              "status": "failed"
+            },
+            "line": 11,
+            "name": "Click Finansal Oranlar",
+            "match": {
+              "location": "LoginSteps.clickFinansalOranlar()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 12,
+            "name": "Search hisse",
+            "match": {
+              "location": "LoginSteps.search_hisse()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 13,
+            "name": "Check hisse on that page",
+            "match": {
+              "location": "LoginSteps.check_hisse_on_that_page()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 14,
+            "name": "Quit page",
+            "match": {
+              "location": "LoginSteps.quit_page()"
+            },
+            "keyword": "And "
+          }
+        ]
+      }
+    ],
+    "name": "Marbas Analizler - Finansal Oranlar test",
+    "description": "",
+    "id": "marbas-analizler---finansal-oranlar-test",
+    "keyword": "Feature",
+    "uri": "MarbasFinansalOranlar.feature"
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 131299,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.beforeScenario()"
+            }
+          }
+        ],
+        "line": 2,
+        "name": "Go to marbas website and test login page",
+        "description": "",
+        "id": "marbas-login-test;go-to-marbas-website-and-test-login-page",
+        "after": [
+          {
+            "result": {
+              "duration": 346070349,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.afterScenario(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 29929235166,
+              "status": "passed"
+            },
+            "line": 3,
+            "name": "Open Marbas login page",
+            "match": {
+              "location": "LoginSteps.open_Marbas_login_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 41291831123,
+              "error_message": "org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of [[ChromeDriver: chrome on MAC (24352f9787949c26fc3fd31907ba4191)] -\u003e xpath: //input[@type\u003d\u0027text\u0027]] (tried for 40 second(s) with 500 milliseconds interval)\nBuild info: version: \u00273.141.59\u0027, revision: \u0027e82be7d358\u0027, time: \u00272018-11-14T08:17:03\u0027\nSystem info: host: \u0027MacBook-Pro-4.local\u0027, ip: \u0027fe80:0:0:0:14c6:cc8b:a438:6ef9%en0\u0027, os.name: \u0027Mac OS X\u0027, os.arch: \u0027x86_64\u0027, os.version: \u002712.6\u0027, java.version: \u00271.8.0_302\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.198, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: /var/folders/xj/xpzb9w853ps...}, goog:chromeOptions: {debuggerAddress: localhost:50108}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}\nSession ID: 24352f9787949c26fc3fd31907ba4191\n\tat org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:95)\n\tat org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)\n\tat pageobjectmodel.AbstractClass.sendKeysFunction(AbstractClass.java:31)\n\tat pageobjectmodel.loginpage_function.sendUsername(loginpage_function.java:23)\n\tat stepDefinition.LoginSteps.write_marbas_username(LoginSteps.java:54)\n\tat ✽.And Write marbas username(MarbasLogin.feature:4)\n",
+              "status": "failed"
+            },
+            "line": 4,
+            "name": "Write marbas username",
+            "match": {
+              "location": "LoginSteps.write_marbas_username()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 5,
+            "name": "Write password",
+            "match": {
+              "location": "LoginSteps.write_password()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 6,
+            "name": "Click login button",
+            "match": {
+              "location": "LoginSteps.click_login_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 7,
+            "name": "Accept popup marbas",
+            "match": {
+              "location": "LoginSteps.acceptPopupMarbas()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 8,
+            "name": "Check marbas username on that page",
+            "match": {
+              "location": "LoginSteps.check_marbas_username_on_that_page()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Marbas Login test",
+    "description": "",
+    "id": "marbas-login-test",
+    "keyword": "Feature",
+    "uri": "MarbasLogin.feature"
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 104335,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.beforeScenario()"
+            }
+          }
+        ],
+        "line": 3,
+        "name": "Go to vakıfbank website and test login page",
+        "description": "",
+        "id": "vakıfbank-login-test;go-to-vakıfbank-website-and-test-login-page",
+        "after": [
+          {
+            "result": {
+              "duration": 117880,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.afterScenario(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 756382854,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "Open vakifbank login page",
+            "match": {
+              "location": "LoginSteps.openVakifbankLoginPage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 34931683420,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "Accept popup",
+            "match": {
+              "location": "LoginSteps.accept_popup()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 147855117,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "Click profile button",
+            "match": {
+              "location": "LoginSteps.clickProfileButton()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 71305760,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "Check vakifbank username",
+            "match": {
+              "location": "LoginSteps.checkVakifbankUsername()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 299679582,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "Quit page",
+            "match": {
+              "location": "LoginSteps.quit_page()"
+            },
+            "keyword": "And "
+          }
+        ]
+      }
+    ],
+    "name": "Vakıfbank Login test",
+    "description": "",
+    "id": "vakıfbank-login-test",
+    "keyword": "Feature",
+    "uri": "VakifbankLogin.feature"
+  }
+]
